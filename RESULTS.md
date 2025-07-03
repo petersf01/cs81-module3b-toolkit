@@ -43,7 +43,16 @@ true
 
 ## The isOdd function
 ```
-
+function isOdd(n) {
+  return n % 2 != 0;
+}
+undefined
+isOdd(103);
+true
+isOdd(22);
+false
+isOdd(0);
+false
 ```
 
 ## The multiply function
