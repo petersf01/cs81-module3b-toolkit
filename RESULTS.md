@@ -57,6 +57,17 @@ false
 
 ## The multiply function
 ```
-
+function multiply(n) {
+  return n * n;
+}
+undefined
+multiply(1);
+1
+multiply(2);
+4
+multiply(7);
+49
+multiply(0);
+0
 ```
 

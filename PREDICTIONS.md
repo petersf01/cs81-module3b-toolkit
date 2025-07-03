@@ -13,4 +13,4 @@ I expect this function to check if the argument number is even.
 I expect this function to check if the argument number is odd.
 
 ## The multiply function
-I expect this function to multiply the 2 arguments.
+I expect this function to multiply the argument by itself.

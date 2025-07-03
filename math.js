@@ -18,3 +18,8 @@ function isEven(n) {
 function isOdd(n) {
   return n % 2 != 0;
 }
+
+// multiplies the input number by itself
+function multiply(n) {
+  return n * n;
+}
