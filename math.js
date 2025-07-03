@@ -9,3 +9,7 @@ function square(n) {
   return n * n;
 }
 
+// checks if the input number is even
+function isEven(n) {
+  return n % 2 === 0;
+}

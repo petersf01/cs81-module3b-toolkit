@@ -28,7 +28,16 @@ square(1)
 
 ## The isEven function
 ```
-
+function isEven(n) {
+  return n % 2 === 0;
+}
+undefined
+isEven(11);
+false
+isEven(999);
+false
+isEven(20390);
+true
 ```
 
 
